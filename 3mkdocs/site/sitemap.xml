@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://example.com/</loc>
+         <lastmod>2024-03-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/MNMU_PSCSEC%2B-%2BServicos%2B-%2BServicos%2B-%2BMenu%2BIVR%2B-%2BCaracteristicas/</loc>
+         <lastmod>2024-03-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/about/</loc>
+         <lastmod>2024-03-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/info/new-info/</loc>
+         <lastmod>2024-03-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/info/more-info/locatio/</loc>
+         <lastmod>2024-03-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/info/more-info/specification/</loc>
+         <lastmod>2024-03-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
